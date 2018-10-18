@@ -8,7 +8,7 @@
 			"ShenerCloud\\Logger\\" : "src"
 		}
 	},
-	"name" : "ShenerCloud/logger",
+	"name" : "shenercloud/logger",
 	"description" : "ShenerCloud IT Team",
 	"license" : "GPL-2.0",
 	"require" : {
