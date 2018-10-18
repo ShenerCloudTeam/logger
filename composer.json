@@ -1,0 +1,25 @@
+{
+	"keywords" : [
+		"php",
+		"logger"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"ShenerCloud\\Logger\\" : "src"
+		}
+	},
+	"name" : "ShenerCloud/logger",
+	"description" : "ShenerCloud IT Team",
+	"license" : "GPL-2.0",
+	"require" : {
+		"php" : ">=7.2",
+		"psr/log": "^1.0"
+	},
+	"authors" : [{
+			"name" : "ShenerCloud IT",
+			"email" : "shenercloud@163.com",
+			"homepage" : "https://github.com/ShenerCloudTeam/logger.git",
+			"role" : "IT"
+		}
+	]
+}
